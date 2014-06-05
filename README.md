@@ -11,3 +11,7 @@ To use this project:
 2. mvn clean install / mvn eclipse:eclipse
 2. make a tomcat server in eclipse and add the project as module
 3. sart tomcat server and open webbrowser http://localhost:8080/angularGreetsRest/
+
+Thanks:
+http://briansjavablog.blogspot.nl/2012/08/rest-services-with-spring.html
+http://www.lullabot.com/blog/article/processing-forms-angularjs
